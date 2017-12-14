@@ -1,2 +1,2 @@
 # angular-http-services
-angular-http-services
+Learning Angular http services
